@@ -1,6 +1,10 @@
 node-osmparser
 ==============
 
+Changes in this fork
+--------------------
+* Removed disk cache feature and its dependencies (levelup and leveldown modules) - @sogko
+
 OpenStreetMap XML and PBF parser for Node.JS
 
 Note: WIP - Currently only XML!

@@ -12,9 +12,7 @@
     "url" : "https://github.com/mjaros/node-osmparser/issues"
   },
   "dependencies": {
-    "node-expat": "2.0.x",
-    "leveldown": "0.6.x",
-    "levelup": "0.12.x"
+    "node-expat": "2.0.x"
   },
   "devDependencies": {
 
